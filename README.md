@@ -1,8 +1,13 @@
+![68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966](https://user-images.githubusercontent.com/101566603/185559953-d896bf85-d7d9-4b2b-98e2-fb508541f6b8.gif)
 
 
 
 <h1 align="center">Hi 👋, I'm Ganesh Sabale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
+
+<p align="left" dir="auto">
+I chose to take a Bachelor of Computer Application at Modern College in Pune because I enjoy coding and solving problems. My current course of study at Masai School is Full-Stack Web Development. My hunger to learn and ability to work with any new kind of tools and technologies makes me unique and capable of writing production-ready code using React, JavaScript, HTML, CSS, Bootstrap on the Front-end, and Node.js to build any web page applications, and a few projects got me hands-on experience with MERN Technology. Now, I am currently looking forward to a position where I can utilize my skills and grow with the growth of the company.
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshsabale99&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshsabale99" /> </p>
 
