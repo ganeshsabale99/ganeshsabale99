@@ -25,6 +25,10 @@ My hunger to learn and ability to work with any new kind of tools and technologi
   <a href="https://www.linkedin.com/in/ganesh-sabale-909616211/" target="_blank">
     <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   </a>
+  <p align="left">
+  <a href="mailto:sabaleganesh99@gmail.com" target="_blank">
+    <img align="left" width="32" alt="LinkedIn" src="https://img.icons8.com/fluency/48/000000/gmail.png" />
+  </a>
     
 <!--   <a href="https://www.instagram.com/manish" target="_blank">
     <img align="left" width="32" alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />
@@ -49,6 +53,10 @@ My hunger to learn and ability to work with any new kind of tools and technologi
 
 <br><br><br>
 📫 Reach me at *sabaleganesh99@gmail.com*
+<br>
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lEl9BUjXC03EzvY8inDkJL_mM0pi4jIr/view?usp=sharing)
+<br>
+😄 Checkout my Portfolio:[Portfolio](https://ganesh-sabale-portfolio.netlify.app/)
 
 <br>
 
