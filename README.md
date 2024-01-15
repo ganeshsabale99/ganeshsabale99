@@ -129,7 +129,7 @@ My hunger to learn and ability to work with any new kind of tools and technologi
 <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
  <!-- <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> -->
 <!-- <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" /> -->
-<img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg" /> 
+<!-- <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg" />  -->
 </p>
 
 <br><br>
